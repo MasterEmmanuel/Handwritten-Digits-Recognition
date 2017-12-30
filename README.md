@@ -4,3 +4,11 @@ This project covers the (simple) application and use of neural networks. And as 
 
 
 
+Let's Begin
+In order for a smooth transitioning of the working codes here to your computer, a couple of things should be already be running on your system. The below shows just what you need for this project:
+-Tensorflow (How to install: https://www.tensorflow.org/install/)
+-Python3.x.x
+-CUDA GPA NVIDIA(optional)
+
+
+AUthor: Emmanuel Okwudike (https://github.com/MasterEmmanuel)
