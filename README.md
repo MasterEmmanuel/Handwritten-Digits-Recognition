@@ -11,4 +11,4 @@ In order for a smooth transitioning of the working codes here to your computer, 
 -CUDA GPA NVIDIA(optional)
 
 
-Author: Emmanuel Okwudike (https://github.com/MasterEmmanuel)
+Author: Emmanuel Okwudike (https://github.com/iameo)
